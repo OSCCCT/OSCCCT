@@ -1,5 +1,6 @@
 
 ## Greetings To All 👋
+<a href="https://readme-jokes.vercel.app"><img align="left" height= "400px" width="300px" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 I'm currently working on the mobile game NeverFear here on GitHub! Along with that many other Web development and AI cloud computing projects really get me fired up!
 
